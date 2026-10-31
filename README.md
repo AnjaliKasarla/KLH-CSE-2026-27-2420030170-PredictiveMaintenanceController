@@ -24,7 +24,25 @@ Assistant Professor
 Department of Computer Science and Engineering
 KLH CSE Bowrampet Campus
 
-> **Note:** The Review-1 PPT lists `2420030170` for both K. Anjali and M. Vinusha. Please verify M. Vinusha's ID before the final submission.
+---
+
+## Live Project
+
+### Frontend
+
+https://edge-ai-predictive-maintenance-6zsn.onrender.com
+
+### Backend API
+
+https://edge-ai-predictive-maintenance-api.onrender.com
+
+### API Documentation
+
+https://edge-ai-predictive-maintenance-api.onrender.com/docs
+
+### GitHub Repository
+
+https://github.com/AnjaliKasarla/KLH-CSE-2026-27-2420030170-PredictiveMaintenanceController
 
 ---
 
@@ -42,7 +60,10 @@ https://github.com/AnjaliKasarla/KLH-CSE-2026-27-2420030170-PredictiveMaintenanc
 
 ## Team Member GitHub Links
 
-The available project materials do not provide individual GitHub profile links. Add the actual profile links below:
+https://github.com/Sharvani052/RTOS-AI-predictive-Edge-Controller
+
+https://github.com/vinusha212/KLH-CSE-2026-2420030212--Predictive-maintenance-controller.git
+
 ---
 
 ## Project Guide
